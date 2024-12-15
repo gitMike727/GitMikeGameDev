@@ -19,7 +19,7 @@ else
   }
 ```
 
-<p align = center>
+<p align = left>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlsZjBseG9ucDYwZWkyYzhreHg5emV6bDVqczllbTZneTRmNW54ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.webp" alt="Cat Type GIF" style="width:150px;height:150px;" >
 </p>
 
@@ -75,6 +75,11 @@ else
   <li>Passionte about creating engaging and addicting gameplay exeperiences.</li>
 </ui>
 
+<br></br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtruong727"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mtruong727)](https://git.io/streak-stats)
 
 
 

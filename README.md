@@ -19,6 +19,10 @@ else
   }
 ```
 
+<p align = center>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlsZjBseG9ucDYwZWkyYzhreHg5emV6bDVqczllbTZneTRmNW54ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.webp" alt="Cat Type GIF" style="width:150px;height:150px;" >
+</p>
+
 <p align = left>
 <h4>My Bio:</h4> 
   <ul>
@@ -56,6 +60,7 @@ else
   <li>Collaborate effectively in a team environment.</li>
   <li>Game design & game development life cycle.</li>
   <li>Version control (Git)</li>
+  <li>Passionte about creating engaging and addicting gameplay exeperiences.</li>
 </ui>
 
 

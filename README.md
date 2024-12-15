@@ -19,6 +19,16 @@ else
   }
 ```
 
+<p align = left>
+My Bio: 
+  <ul>
+  <li>30 revolutions around the sun.</li>
+  <li>I'm into classic japanese automobiles.</li>
+  <li>Also into Traveling lightly.</li>
+  <li>And enjoying the good days.</li>
+</ul>
+</p>
+
 
 
 

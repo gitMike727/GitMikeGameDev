@@ -33,7 +33,7 @@ else
 <h2>Abilities: </h2>
  <ul>
   <li>2+ years in gameplay programming</li>
-  <li>3+ years using Unreal engine</li>
+  <li>3+ years Unreal engine experience</li>
   <li>Profiecient in C++ & OOP</li>
   <li>Proficient in Unreal blueprint & visual node-based programming</li>
   <li>A passion for video games and its direction into the future</li>
@@ -46,6 +46,7 @@ else
 <p>
   <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unreal_Engine.png" alt="Unreal Icon" style="width:42px;height:42px;"> 
   <img src="https://cdn1.iconfinder.com/data/icons/brands-5/512/fi-brands-unity-1024.png" alt="Unreal Icon" style="width:42px;height:42px;">
+  <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="Unreal Icon" style="width:42px;height:42px;">
 </p>
 
 

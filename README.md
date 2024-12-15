@@ -32,12 +32,13 @@ else
 
 <h4>Social Links: </h4> 
 </p>
+
 <a href="https://www.facebook.com/profile.php?id=61568259099929">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="FB Icon" style="width:42px;height:42px;">
 </a>
 
 <a href="https://www.instagram.com/gitmike_/">
-<img src="https://cdn1.iconfinder.com/data/icons/social-rounded-2/32/instagram-1024.png" alt="FB Icon" style="width:42px;height:42px;">
+<img src="https://cdn1.iconfinder.com/data/icons/social-rounded-2/32/instagram-1024.png" alt="IG Icon" style="width:42px;height:42px;">
 </a>
 
 <h2>Abilities: </h2>

@@ -27,7 +27,7 @@ else
 </ul>
 
 <h4>Social Links: </h4> <a href="https://www.facebook.com/profile.php?id=61568259099929">
-<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-1024.png" alt="HTML tutorial" style="width:42px;height:42px;">
+<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-1024.png" alt="FB Icon" style="width:42px;height:42px;">
 </a>
 
 <h2>Abilities: </h2>
@@ -41,7 +41,11 @@ else
 </ul>
 
 <h2><img src="https://cdn4.iconfinder.com/data/icons/build-a-house-flat/512/construction_toolbox_repair_equipment_hammer_tool_box-1024.png" alt="tool" style="width:18px;height:18px;">Tools:</h2>
+</p>
 
+<p>
+  <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unreal_Engine.png" alt="Unreal Icon" style="width:42px;height:42px;"> 
+  <img src="https://cdn1.iconfinder.com/data/icons/brands-5/512/fi-brands-unity-1024.png" alt="Unreal Icon" style="width:42px;height:42px;">
 </p>
 
 

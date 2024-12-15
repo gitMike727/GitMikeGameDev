@@ -49,6 +49,14 @@ else
   <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="Unreal Icon" style="width:42px;height:42px;">
 </p>
 
+<h3>Skills:</h3>
+<ui>
+  <li>Build gameplay mechanics.</li>
+  <li>Optimize games for performance.</li>
+  <li>Collaborate effectively in a team environment.</li>
+  <li>Game design & game development life cycle.</li>
+  <li>Version control (Git)</li>
+</ui>
 
 
 

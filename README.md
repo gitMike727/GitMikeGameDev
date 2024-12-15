@@ -31,7 +31,7 @@ else
 </ul>
 
 <h4>Social Links: </h4> <a href="https://www.facebook.com/profile.php?id=61568259099929">
-<img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-1024.png" alt="FB Icon" style="width:42px;height:42px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="FB Icon" style="width:42px;height:42px;">
 </a>
 
 <h2>Abilities: </h2>
@@ -48,9 +48,14 @@ else
 </p>
 
 <p>
-  <img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unreal_Engine.png" alt="Unreal Icon" style="width:42px;height:42px;"> 
-  <img src="https://cdn1.iconfinder.com/data/icons/brands-5/512/fi-brands-unity-1024.png" alt="Unreal Icon" style="width:42px;height:42px;">
-  <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="Unreal Icon" style="width:42px;height:42px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal Icon" style="width:42px;height:42px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity Icon" style="width:42px;height:42px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++ icon" style="width:42px;height:42px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visiual Studio icon" style="width:42px;height:42px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visiual code icon" style="width:42px;height:42px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" alt="Blender" style="width:42px;height:42px;" />
+
+  
 </p>
 
 <h3>Skills:</h3>

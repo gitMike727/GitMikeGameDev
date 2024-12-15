@@ -73,7 +73,7 @@ else
   <li>Collaborate effectively in a team environment.</li>
   <li>Game design & game development life cycle.</li>
   <li>Version control (Git)</li>
-  <li>Passionte about creating engaging and addicting gameplay exeperiences.</li>
+  <li>Passionate about creating engaging and addicting gameplay exeperiences.</li>
 </ui>
 
 <br></br>

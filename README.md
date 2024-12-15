@@ -43,6 +43,7 @@ else
 
 <h2>Abilities: </h2>
  <ul>
+  <li>Game and Simulation Development:Programming AAS</li>
   <li>2+ years in gameplay programming</li>
   <li>3+ years Unreal engine experience</li>
   <li>Profiecient in C++ & OOP</li>

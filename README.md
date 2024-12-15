@@ -30,8 +30,14 @@ else
   <li>I'm into classic japanese automobiles.</li>
 </ul>
 
-<h4>Social Links: </h4> <a href="https://www.facebook.com/profile.php?id=61568259099929">
+<h4>Social Links: </h4> 
+</p>
+<a href="https://www.facebook.com/profile.php?id=61568259099929">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="FB Icon" style="width:42px;height:42px;">
+</a>
+
+<a href="https://www.instagram.com/gitmike_/">
+<img src="https://cdn1.iconfinder.com/data/icons/social-rounded-2/32/instagram-1024.png" alt="FB Icon" style="width:42px;height:42px;">
 </a>
 
 <h2>Abilities: </h2>
@@ -45,7 +51,7 @@ else
 </ul>
 
 <h2><img src="https://cdn4.iconfinder.com/data/icons/build-a-house-flat/512/construction_toolbox_repair_equipment_hammer_tool_box-1024.png" alt="tool" style="width:18px;height:18px;">Tools:</h2>
-</p>
+
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal Icon" style="width:42px;height:42px;" />

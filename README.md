@@ -81,9 +81,6 @@ else
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtruong727)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mtruong727)](https://git.io/streak-stats)
-
-
 
 
 

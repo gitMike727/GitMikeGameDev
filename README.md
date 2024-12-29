@@ -80,6 +80,16 @@ else
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtruong727)
 
+<h3>Current Projects:</h3>
+<ui>
+  <li>A RNG fishing game called Fishtopia.</li>
+  <li>An adventure Idle game using Idle Game Maker Engine.</li>
+  <li>A 2D Idle Game using Game Maker Engine.</li>
+  <li>An Island Level using Unreal Engine.</li>
+  <li>Making a Game Engine called Sophie engine using Ogre, Bullet, and SDL.</li>
+  <li>Experimenting with Object Pooling & Quadtrees in Unreal Engine.</li>
+</ui>
+
 
 
 

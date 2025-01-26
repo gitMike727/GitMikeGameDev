@@ -41,16 +41,6 @@ else
 <img src="https://cdn1.iconfinder.com/data/icons/social-rounded-2/32/instagram-1024.png" alt="IG Icon" style="width:42px;height:42px;">
 </a>
 
-<h2>Abilities: </h2>
- <ul>
-  <li>Game and Simulation Development:Programming AAS</li>
-  <li>2+ years in gameplay programming</li>
-  <li>3+ years Unreal engine experience</li>
-  <li>Profiecient in C++ & OOP</li>
-  <li>Proficient in Unreal blueprint & visual node-based programming</li>
-  <li>A passion for video games and its direction into the future</li>
-  <li>Strong communication skills & knowledge of gameplay code and systems</li>
-</ul>
 
 <h2><img src="https://cdn4.iconfinder.com/data/icons/build-a-house-flat/512/construction_toolbox_repair_equipment_hammer_tool_box-1024.png" alt="tool" style="width:18px;height:18px;">Tools:</h2>
 
@@ -66,25 +56,13 @@ else
   
 </p>
 
-<h3>Skills:</h3>
-<ui>
-  <li>Build gameplay mechanics.</li>
-  <li>Optimize games for performance.</li>
-  <li>Collaborate effectively in a team environment.</li>
-  <li>Game design & game development life cycle.</li>
-  <li>Version control (Git)</li>
-  <li>Passionate about creating engaging and addicting gameplay exeperiences.</li>
-</ui>
-
 <br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtruong727)
 
 <h3>Current Projects:</h3>
 <ui>
-  <li>A RNG fishing game called Fishtopia.</li>
-  <li>A 2D Idle Game using Game Maker Engine.</li>
-  <li>An Island Level using Unreal Engine.</li>
+  <li>Tiny Bait, a 2D pixel fishing game.</li>
   <li>Making a Game Engine called Sophie engine.</li>
 </ui>
 

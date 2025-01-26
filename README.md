@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align = center> 
- Im Michael but you have to call me Nighthawk.
+ Im Michael a Game dev!
 </h3>
 
 ```yaml

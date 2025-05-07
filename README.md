@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?&animation=fadeIn&type=venom&color=gradient&height=200&section=header&text=Hello,%20World%20🕹️%20&fontSize=90)
 
-![Header](https://file.garden/Z14ay7uwgmBSW3CE/github-header-image.png)
 
 <p align = left>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlsZjBseG9ucDYwZWkyYzhreHg5emV6bDVqczllbTZneTRmNW54ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.webp" alt="Cat Type GIF" style="width:80px;height:80px;" >

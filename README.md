@@ -45,8 +45,9 @@
 
 <h3>Current Projects:</h3>
 <ui>
-  <li>Tiny Bait, a 2D pixel fishing game.</li>
-  <li>Making a Game Engine called Sophie engine.</li>
+  <li>Tiny Bait, a 2D pixel fishing game Created with Godot</li>
+  
+  <li>MetaHuman and Unreal Engine</li>
 </ui>
 
 

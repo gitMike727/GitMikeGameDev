@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&animation=fadeIn&type=venom&color=gradient&height=200&section=header&text=Hello,%20World%20🕹️%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?&animation=fadeIn&type=venom&color=gradient&height=200&section=header&text=Hello,%20World%20🕹️%20&fontSize=40)
 
 
 <p align = left>

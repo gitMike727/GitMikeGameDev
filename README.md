@@ -9,7 +9,8 @@
 <p align = left>
 <h4>My Bio:</h4> 
   <ul>
-  <li>Passionate mobile game developer</li>
+  <li>Passionate mobile game developer (working on an Idle Game currently)</li>
+    
   <li>I'm into classic japanese automobiles.</li>
 </ul>
 

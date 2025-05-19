@@ -45,7 +45,7 @@
 
 <h3>Current Projects:</h3>
 <ui>
-  <li>Tiny Bait, a 2D pixel fishing game Created with Godot</li>
+  <li><a href="https://github.com/gitMike727/Tiny-Bait/blob/main/GDD.md"> Tiny Bait </a>, a 2D pixel fishing game Created with Godot</li>
   
   <li>MetaHuman and Unreal Engine</li>
 </ui>

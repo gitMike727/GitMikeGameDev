@@ -45,9 +45,9 @@
 <h3>Completed Projects:</h3>
 <ui>
  
-  <li><a href="https://github.com/bearmade/PlatformerGroupProject"> Astra Odyssey </a>, a 2D pixel platformer Created with Unreal Engine (This is a group project with 10 members. I programmed all of the enemies for this game.</li>
-  <li><a href="https://github.com/gitMike727/Tiny-Bait/blob/main/GDD.md"> Tiny Bait </a>, a 2D pixel fishing game I Created with Godot</li>
-</ui>ui>
+  <li><a href="https://github.com/bearmade/PlatformerGroupProject"> Astra Odyssey </a>, a 2D pixel platformer Ccreated with Unreal Engine (This is a group project with 10 members. I programmed all of the enemies for this game.</li>
+  <li><a href="https://github.com/gitMike727/Tiny-Bait/blob/main/GDD.md"> Tiny Bait </a>, a 2D pixel fishing game I solo created with Godot Engine</li>
+</ui>
 
 
 <h3>Current Projects:</h3>

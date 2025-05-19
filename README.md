@@ -8,9 +8,8 @@
 <p align = left>
 <h4>My Bio:</h4> 
   <ul>
-  <li>Passionate mobile game developer (working on an Idle Game currently)</li>
-    
-  <li>I'm into classic japanese automobiles.</li>
+  <li>Passionate game developer trying to make it in the real world!</li>
+  <li>Currently working on an Idle 2D game for the mobile platform using Unity.</li>
 </ul>
 
 <h4>Social Links: </h4> 

@@ -52,7 +52,7 @@
 
 <h3>Current Projects:</h3>
 <ui>
-  2D Mobile Idle game (I've always wanted to make an idle game)
+  2D Mobile Idle game using Unity Engine (I've always wanted to make an idle game)
 </ui>
 
 

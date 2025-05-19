@@ -42,11 +42,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitMike727)
 
+<h3>Completed Projects:</h3>
+<ui>
+ 
+  <li><a href="https://github.com/bearmade/PlatformerGroupProject"> Astra Odyssey </a>, a 2D pixel platformer Created with Unreal Engine(This is a group project with about 10 members who never worked together before. I was in charge of programming all the enemeies and bosses using Blueprints.</li>
+  <li><a href="https://github.com/gitMike727/Tiny-Bait/blob/main/GDD.md"> Tiny Bait </a>, a 2D pixel fishing game I Created with Godot</li>
+</ui>ui>
+
+
 <h3>Current Projects:</h3>
 <ui>
-  <li><a href="https://github.com/gitMike727/Tiny-Bait/blob/main/GDD.md"> Tiny Bait </a>, a 2D pixel fishing game Created with Godot</li>
-  
-  <li>MetaHuman and Unreal Engine</li>
+  2D Mobile Idle game (I've always wanted to make an idle game)
 </ui>
 
 

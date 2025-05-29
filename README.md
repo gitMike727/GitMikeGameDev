@@ -52,7 +52,9 @@
 
 <h3>Current Projects:</h3>
 <ui>
-  2D Mobile Idle game using Unity Engine (I've always wanted to make an idle game).
+ <li>2D Mobile Idle game using Unity Engine (I've always wanted to make an idle game). </li> 
+ <li> Third person Action-Adventure RPG using Unreal Engine. (A Passion Project)</li>
+  
 </ui>
 
 

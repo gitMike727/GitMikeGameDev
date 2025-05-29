@@ -45,14 +45,14 @@
 <h3>Completed Projects:</h3>
 <ui>
  
-  <li><a href="https://github.com/bearmade/PlatformerGroupProject"> Astra Odyssey </a>, a 2D pixel platformer Ccreated with Unreal Engine (This is a group project with 10 members. I programmed all of the enemies for this game.</li>
-  <li><a href="https://github.com/gitMike727/Tiny-Bait/blob/main/GDD.md"> Tiny Bait </a>, a 2D pixel fishing game I solo created with Godot Engine</li>
+  <li><a href="https://github.com/bearmade/PlatformerGroupProject"> Astra Odyssey </a>, a 2D pixel platformer created with Unreal Engine. (This is a group project with 10 members. I programmed all of the enemies for this game.</li>
+  <li><a href="https://github.com/gitMike727/Tiny-Bait/blob/main/GDD.md"> Tiny Bait </a>, a 2D pixel fishing game I solo created using Godot Engine.</li>
 </ui>
 
 
 <h3>Current Projects:</h3>
 <ui>
-  2D Mobile Idle game using Unity Engine (I've always wanted to make an idle game)
+  2D Mobile Idle game using Unity Engine (I've always wanted to make an idle game).
 </ui>
 
 
